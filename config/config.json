@@ -1,21 +1,21 @@
 {
-  "username": "aisha",
-  "password": "aisha123",
+  "username": "yourusername",
+  "password": "yourpassword", 
   "dialect": "mysql",
   "sessiontime": 100,
   
   "postgres": {
       "host": "localhost",
       "port": 5432,
-      "username": "aisha",
-      "password": "aishapost",
+      "username": "yourusername",
+      "password": "yourpassword",
       "database": "product",
       "dialect": "postgres"
   },
 
   "node": {
-    "username": "aisha",
-    "password": "aisha123",
+    "username": "yourusername",
+    "password": "yourpassword",
     "host": "localhost",
     "port": 8000
   }
