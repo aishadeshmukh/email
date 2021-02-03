@@ -8,8 +8,8 @@ const nodemailer = require('nodemailer');
 var transport = nodemailer.createTransport({
     service: 'Gmail',
     auth: {
-      user: "aishadeshmukh2021@gmail.com",
-      pass: "aisha2021"
+      user: "example@gmail.com", //Enter send email address
+      pass: "pwd" // Enter password
     }
     //port: 2525,
     
